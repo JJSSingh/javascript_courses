@@ -1,0 +1,1 @@
+document.write('TEST 0001.');
